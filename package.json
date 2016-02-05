@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-unstyled",
+  "version": "1.0.0",
+  "description": "an eslint configuration with no style preferences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapbox/eslint-config-unstyled.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "Tom MacWright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapbox/eslint-config-unstyled/issues"
+  },
+  "homepage": "https://github.com/mapbox/eslint-config-unstyled#readme"
+}
