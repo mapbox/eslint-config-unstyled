@@ -1,4 +1,8 @@
 module.exports = {
+  "env": {
+    "browser": true,
+    "node": true
+  },
   rules: {
     "no-invalid-regexp": [2],
     "no-obj-calls": [2],
